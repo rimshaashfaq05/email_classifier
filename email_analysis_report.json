@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_emails": 0,
+    "unique_senders": 0,
+    "unique_domains": 0
+  },
+  "top_senders": {},
+  "top_domains": {},
+  "top_keywords": {
+    "sample": 1,
+    "another": 1,
+    "line": 1,
+    "text": 1
+  },
+  "detected_patterns": {},
+  "pattern_examples": {}
+}

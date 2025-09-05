@@ -1,0 +1,27 @@
+From: billing@jazzcash.com.pk
+Subject: JazzCash Payment Alert  
+Date: Mon, 1 Jan 2024 10:00:00 +0500
+
+Dear Customer,
+Rs. 1000 has been deducted from your JazzCash wallet.
+Transaction ID: JC123456
+Remaining balance: Rs. 5000
+Thank you for using JazzCash.
+
+From: support@daraz.pk
+Subject: Your order has been delivered
+Date: Tue, 2 Jan 2024 15:30:00 +0500
+
+Dear Customer,
+Your order #DAZ12345 has been successfully delivered.
+Items: Mobile Phone, Charger
+Thank you for shopping with Daraz!
+
+From: admission@pu.edu.pk  
+Subject: Semester Registration Reminder
+Date: Wed, 3 Jan 2024 09:15:00 +0500
+
+Dear Student,
+Please complete your semester registration by January 15.
+Late fee will apply after deadline.
+Punjab University Admissions
